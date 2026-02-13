@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|c:\\users\\student\\desktop\\asp.net core 2024-07d\\asp.net core 2024-07d\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|solutionrelative:asp.net core 2024-07d\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|c:\\users\\student\\desktop\\asp.net core 2024-07d\\asp.net core 2024-07d\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|solutionrelative:asp.net core 2024-07d\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|c:\\users\\student\\desktop\\asp.net core 2024-07d\\asp.net core 2024-07d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|solutionrelative:asp.net core 2024-07d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|c:\\users\\student\\desktop\\asp.net core 2024-07d\\asp.net core 2024-07d\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5478718C-4009-4060-8676-B671E183E55B}|Asp.net Core 2024-07D\\Asp.net Core 2024-07D.csproj|solutionrelative:asp.net core 2024-07d\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Asp.net Core 2024-07D\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Asp.net Core 2024-07D\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:48:50.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "Asp.net Core 2024-07D\\Controllers\\VoucherController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "Asp.net Core 2024-07D\\Controllers\\VoucherController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:31:33.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Asp.net Core 2024-07D\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\appsettings.Development.json",
+              "RelativeToolTip": "Asp.net Core 2024-07D\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T08:35:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Program.cs",
+              "RelativeDocumentMoniker": "Asp.net Core 2024-07D\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Asp.net Core 2024-07D\\Asp.net Core 2024-07D\\Program.cs",
+              "RelativeToolTip": "Asp.net Core 2024-07D\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:35:21.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
